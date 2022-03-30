@@ -1,0 +1,6 @@
+[0]
+JSON = "0.21"
+PlotlyJS = "0.18"
+PyCall = "1"
+Reexport = "1"
+julia = "1"
