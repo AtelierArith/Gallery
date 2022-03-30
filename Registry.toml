@@ -1,0 +1,6 @@
+name = "Gallery"
+uuid = "857a3ff3-737a-4aba-a1f0-888341c4b54a"
+repo = "git@github.com:AtelierArith/Gallery.git"
+description = "Julia Registry of AtelirArith"
+
+[packages]
