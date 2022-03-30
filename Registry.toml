@@ -4,3 +4,4 @@ repo = "git@github.com:AtelierArith/Gallery.git"
 description = "Julia Registry of AtelirArith"
 
 [packages]
+1f096619-141e-4d77-a13b-040156ae333b = { name = "PyPlotly", path = "P/PyPlotly" }
